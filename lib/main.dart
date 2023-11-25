@@ -8,6 +8,7 @@ import 'package:quick_blue/quick_blue.dart';
 
 import 'PeripheralDetailPage.dart';
 
+// https://github.com/woodemi/quick_blue?ref=morioh.com&utm_source=morioh.com
 void main() {
   runApp(MyApp());
 }
